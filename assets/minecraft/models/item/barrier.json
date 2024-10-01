@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/barrier"
+	},
+	"overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "bts:empty"},
+        {"predicate": {"custom_model_data": 2}, "model": "bts:arrow1"},
+        {"predicate": {"custom_model_data": 3}, "model": "bts:arrow2"},
+        {"predicate": {"custom_model_data": 4}, "model": "bts:arrow3"},
+        {"predicate": {"custom_model_data": 5}, "model": "bts:arrow4"},
+        {"predicate": {"custom_model_data": 6}, "model": "bts:arrow5"},
+        {"predicate": {"custom_model_data": 7}, "model": "bts:arrow6"},
+        {"predicate": {"custom_model_data": 8}, "model": "bts:arrow7"},
+        {"predicate": {"custom_model_data": 9}, "model": "bts:arrow8"},
+        {"predicate": {"custom_model_data": 10}, "model": "bts:arrow9"},
+        {"predicate": {"custom_model_data": 11}, "model": "bts:arrow10"}
+
+
+    ]
+}
