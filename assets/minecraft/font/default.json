@@ -33,38 +33,80 @@
         },
         {
             "type": "bitmap",
-            "file": "bts:ui/super_cold.png",
-            "ascent": 2,
-            "height": 27,
+            "file": "bts:ui/too_cold.png",
+            "ascent": -7,
+            "height": 20,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/cold.png",
-            "ascent": 2,
-            "height": 27,
+            "ascent": -7,
+            "height": 20,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/hot.png",
-            "ascent": 2,
-            "height": 27,
+            "ascent": -7,
+            "height": 20,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
-            "file": "bts:ui/super_hot.png",
-            "ascent": 2,
-            "height": 27,
+            "file": "bts:ui/too_hot.png",
+            "ascent": -7,
+            "height": 20,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
-            "file": "bts:ui/powder_snow_outline2.png",
-            "ascent": 42,
-            "height": 91,
+            "file": "bts:ui/neutral.png",
+            "ascent": -7,
+            "height": 20,
             "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "bts:ui/neutral_fall.png",
+            "ascent": -7,
+            "height": 20,
+            "chars": ["\uE0A1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "bts:ui/neutral_rise.png",
+            "ascent": -7,
+            "height": 20,
+            "chars": ["\uE0A2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "bts:ui/cold_fall.png",
+            "ascent": -7,
+            "height": 20,
+            "chars": ["\uE0A3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "bts:ui/cold_rise.png",
+            "ascent": -7,
+            "height": 20,
+            "chars": ["\uE0A4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "bts:ui/hot_fall.png",
+            "ascent": -7,
+            "height": 20,
+            "chars": ["\uE0A5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "bts:ui/hot_rise.png",
+            "ascent": -7,
+            "height": 20,
+            "chars": ["\uE0A6"]
         },
         {
             "type": "bitmap",

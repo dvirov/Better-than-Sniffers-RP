@@ -1,11 +1,11 @@
 {
   "variants": {
     "facing=down,open=false": {
-      "model": "minecraft:block/transparent_barrel",
+      "model": "minecraft:block/barrier",
       "x": 180
     },
     "facing=down,open=true": {
-      "model": "minecraft:block/transparent_barrel_open",
+      "model": "minecraft:block/barrier",
       "x": 180
     },
     "facing=east,open=false": {
