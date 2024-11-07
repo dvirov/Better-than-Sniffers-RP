@@ -1,11 +1,11 @@
 {
   "variants": {
     "facing=down,open=false": {
-      "model": "minecraft:block/barrier",
+      "model": "minecraft:block/blank",
       "x": 180
     },
     "facing=down,open=true": {
-      "model": "minecraft:block/barrier",
+      "model": "minecraft:block/blank",
       "x": 180
     },
     "facing=east,open=false": {

@@ -34,77 +34,77 @@
         {
             "type": "bitmap",
             "file": "bts:ui/too_cold.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/cold.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/hot.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/too_hot.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/neutral.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/neutral_fall.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE0A1"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/neutral_rise.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE0A2"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/cold_fall.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE0A3"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/cold_rise.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE0A4"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/hot_fall.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE0A5"]
         },
         {
             "type": "bitmap",
             "file": "bts:ui/hot_rise.png",
-            "ascent": -7,
+            "ascent": -12,
             "height": 20,
             "chars": ["\uE0A6"]
         },
