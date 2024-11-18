@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
+  "parent": "minecraft:item/handheld",
+    "textures": {
     "layer0": "bts:item/tools/steel_pickaxe"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "bts:item/tools/fire_plough"
+    "layer0": "item/empty_armor_slot_boots"
   }
 }
