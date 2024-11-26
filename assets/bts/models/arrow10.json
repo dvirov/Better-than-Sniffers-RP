@@ -1,6 +1,6 @@
 {
   "parent": "bts:overlay",
   "textures": {
-    "texture": "bts:gui/arrow10"
+    "texture": "bts:item/gui/arrow10"
   }
 }
