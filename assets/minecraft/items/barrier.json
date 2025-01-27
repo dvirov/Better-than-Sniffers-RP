@@ -1,0 +1,84 @@
+{"model":{
+    "type": "range_dispatch",
+"property": "custom_model_data",
+"index":0,
+"entries": [
+    {
+        "threshold": 2,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow1"
+        
+        }
+    },{
+        "threshold": 3,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow2"
+        
+        }
+    },{
+        "threshold": 4,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow3"
+        
+        }
+    },{
+        "threshold": 5,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow4"
+        
+        }
+    },{
+        "threshold": 6,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow5"
+        
+        }
+    },{
+        "threshold": 7,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow6"
+        
+        }
+    },{
+        "threshold": 8,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow7"
+        
+        }
+    },{
+        "threshold": 9,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow8"
+        
+        }
+    },{
+        "threshold": 10,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow9"
+        
+        }
+    },{
+        "threshold": 11,
+        "model": {
+            "type": "model" ,
+            "model": "bts:arrow10"
+        
+        }
+    }
+],
+
+"fallback": {
+    "type": "model",
+    "model": "item/barrier"
+}
+ }
+}

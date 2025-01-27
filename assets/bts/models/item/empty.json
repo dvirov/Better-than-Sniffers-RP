@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "bts:tools/flint_pickaxe"
+    "layer0": "gui/sprites/hud/air"
   }
 }

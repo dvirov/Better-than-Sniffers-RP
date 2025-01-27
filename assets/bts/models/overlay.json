@@ -1,11 +1,9 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"texture": "minecraft:air"
 	},
 	"elements": [
 		{
-			"name": "PlaneX1",
 			"from": [7.25, 0.18, -14.1],
 			"to": [7.30, 18.05, 30.30],
 			"faces": {

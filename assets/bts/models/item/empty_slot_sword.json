@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/empty_slot_sword"
+    "layer0": "bts:item/tools/empty_slot_sword"
   }
 }
